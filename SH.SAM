@@ -41,7 +41,7 @@ def banner():
     runntxt(WW+"  ..............Fb: ShymonHasan")
     runntxt(GL+"  ........Instagram: 👑RaFiN Chowdhury💫")
     runntxt(GG+"  ........Youtube: 𝐹𝐸𝐸𝐿𝐼𝑁𝐺𝑆 𝐶𝑅𝐸𝐴𝑇𝐼𝑂𝑁")
-    runntxt(Y+"   ...........Twitter: Shymon Hasan")
+    runntxt(Y+"  ...........Twitter: Shymon Hasan")
     runntxt(GG+"  ...Github: https://github.com/ShymonHasan")
     time.sleep(1.5)
     print GG+"  √=============================================√"
